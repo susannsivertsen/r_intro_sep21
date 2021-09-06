@@ -41,6 +41,7 @@ Den inneholder vår samling av referanser.
 Bare de referansene vi siterer i teksten vil bli lagt til referanselisten.
 RStudio vil selv endre litt i YAML, spesielt gjelder dette `output:` verdien som blir endret hvis vi velger et annet format i `Preview`menyen.
 
+Dette er bare tulletekst
 
 Her tester vi matte $\bar{x}= \frac{\sum_{i=1}^{N} x_i}{N}$
 
